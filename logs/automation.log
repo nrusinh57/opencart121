@@ -1,3 +1,9 @@
-2025-10-06 20:36:35 INFO  TC002_LoginTest:14 - ****Tc002_LoginTest Started****
-2025-10-06 20:37:51 INFO  TC002_LoginTest:14 - ****Tc002_LoginTest Started****
-2025-10-06 20:50:19 INFO  TC002_LoginTest:14 - ****Tc002_LoginTest Started****
+2025-10-07 14:00:58 INFO  TC002_LoginTest:14 - ****Tc002_LoginTest Started****
+2025-10-07 20:15:09 INFO  TC002_LoginTest:14 - ****Tc002_LoginTest Started****
+2025-10-07 20:17:15 INFO  TC001_AccCreation:16 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-10-07 20:17:17 INFO  TC001_AccCreation:23 - Clicked on Register Link.. 
+2025-10-07 20:17:17 INFO  TC001_AccCreation:26 - Providing customer details...
+2025-10-07 20:17:20 INFO  TC001_AccCreation:40 - Validating expected message..
+2025-10-07 20:17:20 INFO  TC001_AccCreation:43 - Test passed
+2025-10-07 20:17:20 INFO  TC001_AccCreation:50 - ***** Finished TC001_AccountRegistrationTest *****
+2025-10-07 20:17:27 INFO  TC002_LoginTest:14 - ****Tc002_LoginTest Started****
